@@ -5,7 +5,7 @@
 **CodeRed PE (Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. This sleek environment is your go-to solution for tackling a wide array of computer challenges with ease. Designed for today's cutting-edge systems, CodeRed PE fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth and efficient operation on modern hardware.
 
 ## Curated Tools for Every Need
-Within CodeRed PE, you'll find a meticulously selected suite of the finest free tools available. Each tool is chosen for its effectiveness and legality, reflecting our commitment to providing only free and legally distributed software. Whether you're troubleshooting, recovering data, or performing system diagnostics, CodeRed PE equips you with the essential tools to get the job done right.
+Within CodeRed PE, you'll find a meticulously selected suite of the finest free tools available. Each tool is chosen for its effectiveness, reflecting our commitment to providing only free and legally distributed software. Whether you're troubleshooting, recovering data, or performing system diagnostics, CodeRed PE equips you with the essential tools to get the job done right.
 
 ## Seamless Hardware Compatibility
 Upon booting, CodeRed PE takes the hassle out of setup by automatically installing drivers for critical components like graphics, sound, and network cards. This ensures that you can connect to a WIFI or Ethernet network without missing a beat.
