@@ -8,6 +8,8 @@ Within CodeRed PE, you'll find a meticulously selected suite of the finest free 
 ## Seamless Hardware Compatibility
 Upon booting, CodeRed PE takes the hassle out of setup by automatically installing drivers for critical components like graphics, sound, and network cards. This ensures that you can connect to a WIFI or Ethernet network without missing a beat.
 
+<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/Capture.webp?raw=true" width="800" height="450"/>
+
 ## Installation Guide
 
 ### Step 1: Prepare Rufus
@@ -36,8 +38,11 @@ Upon booting, CodeRed PE takes the hassle out of setup by automatically installi
    - If "Large FAT32" is not visible, press `ALT+L` to enable "Force Large32 formatting."
 
 ### Step 5: Finalize and Start
-1. Click `START` to begin the process. 
-2. If prompted with a warning, review the information and click `OK` to proceed.
+1. Double-check all settings against the recommended configuration shown in the screenshot below.
+2. Click `START` to begin the process. 
+3. If prompted with a warning, review the information and click `OK` to proceed.
+
+<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/capturerufus.webp?raw=true" width="320" height="410"/>
 
    **Timing**: The creation process may take around 10 minutes, depending on your USB flash drive's write speed.
 
