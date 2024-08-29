@@ -1,6 +1,6 @@
-# CodeRed PE
+# CodeRed PE <img src="https://github.com/hethwiQ/CodeRed/blob/main/images/codeRedIco.png?raw=true" width="50" height="52"/>
 
-<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/codeRedIco.png?raw=true" width="100" height="104"/>
+
 
 **CodeRed PE (Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. This sleek environment is your go-to solution for tackling a wide array of computer challenges with ease. Designed for today's cutting-edge systems, CodeRed PE fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth and efficient operation on modern hardware.
 
