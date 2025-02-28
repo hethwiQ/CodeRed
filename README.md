@@ -41,6 +41,6 @@ Upon booting, CodeRed PE automatically installs drivers for critical components 
 2. Click `START` to begin the process. 
 3. If prompted with a warning, review the information and click `OK` to proceed.
 
-<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/capturerufus.webp?raw=true" style="max-width:100%; height:auto;"/>
+<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/capturerufus.webp?raw=true" width="320" height="410"/>
 
 **Timing**: The creation process may take around 10 minutes, depending on your USB flash drive's write speed.
