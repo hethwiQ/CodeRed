@@ -1,16 +1,14 @@
-# CodeRed PE <img src="https://github.com/hethwiQ/CodeRed/blob/main/images/codeRedIco.png?raw=true" width="50" height="52"/>
+# CodeRed RE <img src="https://github.com/hethwiQ/CodeRed/blob/main/images/codeRedIco.png?raw=true" width="50" height="52"/>
 
-
-
-**CodeRed PE (Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. **_CodeRed empowers you to bypass system passwords and access locked Windows systems_**. This sleek environment is your go-to solution for tackling a wide array of computer challenges with ease. Designed for today's cutting-edge systems, CodeRed PE fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth and efficient operation on modern hardware.
+**CodeRed RE (Recovery-Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. **CodeRed enables secure access to locked Windows systems**. This professional-grade environment is designed to assist in a wide range of system recovery tasks with efficiency and precision. Built for modern systems, CodeRed PE fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth operation on contemporary hardware.
 
 ## Curated Tools for Every Need
-Within CodeRed PE, you'll find a meticulously selected suite of the finest free tools available. Each tool is chosen for its effectiveness, reflecting our commitment to providing only free and legally distributed software. Whether you're troubleshooting, recovering data, or performing system diagnostics, CodeRed PE equips you with the essential tools to get the job done right.
+Within CodeRed PE, a meticulously selected suite of free and legally distributed tools is available. Each tool is chosen for its effectiveness, ensuring users have access to high-quality utilities for troubleshooting, data recovery, and system diagnostics.
 
 ## Seamless Hardware Compatibility
-Upon booting, CodeRed PE takes the hassle out of setup by automatically installing drivers for critical components like graphics, sound, and network cards. This ensures that you can connect to a WIFI or Ethernet network without missing a beat.
+Upon booting, CodeRed PE automatically installs drivers for critical components like graphics, sound, and network cards, ensuring full connectivity and usability without additional setup.
 
-<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/Capture.webp?raw=true" width="800" height="450"/>
+<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/Capture.webp?raw=true" style="max-width:100%; height:auto;"/>
 
 ## Installation Guide
 
@@ -21,11 +19,10 @@ Upon booting, CodeRed PE takes the hassle out of setup by automatically installi
 ### Step 2: Enable Dual UEFI/BIOS Mode
 1. In Rufus, press `ALT+E` to unlock the "Dual UEFI/BIOS" mode.
 
-   **Important**: 
+   **Important**:
    - Ensure that "Dual UEFI/BIOS mode enabled" is displayed at the bottom of Rufus, confirming the activation.
    - This mode remains enabled for future use, so you only need to activate it once.
-
-   **Tip**: Activate "Dual UEFI/BIOS" mode before selecting the ISO file to ensure compatibility with FAT32 formatting.
+   - Activate "Dual UEFI/BIOS" mode before selecting the ISO file to ensure compatibility with FAT32 formatting.
 
 ### Step 3: Select the CodeRed ISO
 1. With "Dual UEFI/BIOS" mode active, choose your USB flash drive from the "Device" dropdown menu.
@@ -35,8 +32,8 @@ Upon booting, CodeRed PE takes the hassle out of setup by automatically installi
 1. Set the "Partition scheme" to `MBR`.
 2. Choose `FAT32` as the "File system".
 
-   **Note**: 
-   - For USB flash drives 32 GB or larger, opt for `Large FAT32` under the "File system" dropdown.
+   **Note**:
+   - For USB flash drives 32 GB or larger, select `Large FAT32` under the "File system" dropdown.
    - If "Large FAT32" is not visible, press `ALT+L` to enable "Force Large32 formatting."
 
 ### Step 5: Finalize and Start
@@ -44,7 +41,6 @@ Upon booting, CodeRed PE takes the hassle out of setup by automatically installi
 2. Click `START` to begin the process. 
 3. If prompted with a warning, review the information and click `OK` to proceed.
 
-<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/capturerufus.webp?raw=true" width="320" height="410"/>
+<img src="https://github.com/hethwiQ/CodeRed/blob/main/images/capturerufus.webp?raw=true" style="max-width:100%; height:auto;"/>
 
-   **Timing**: The creation process may take around 10 minutes, depending on your USB flash drive's write speed.
-
+**Timing**: The creation process may take around 10 minutes, depending on your USB flash drive's write speed.
