@@ -1,12 +1,12 @@
 # CodeRed RE <img src="https://github.com/hethwiQ/CodeRed/blob/main/images/codeRedIco.png?raw=true" width="50" height="52"/>
 
-**CodeRed RE (Repair-Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. **CodeRed enables secure access to locked Windows systems**. This professional-grade environment is designed to assist in a wide range of system recovery tasks with efficiency and precision. Built for modern systems, CodeRed PE fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth operation on contemporary hardware.
+**CodeRed RE (Repair-Preinstallation Environment)** is a refined and modernized edition of Windows 11 PE x64, crafted to empower tech enthusiasts and professionals alike. **CodeRed enables secure access to locked Windows systems**. This professional-grade environment is designed to assist in a wide range of system recovery tasks with efficiency and precision. Built for modern systems, CodeRed fully supports UEFI booting and requires a minimum of 4 GB RAM, ensuring smooth operation on contemporary hardware.
 
 ## Curated Tools for Every Need
-Within CodeRed PE, a meticulously selected suite of free and legally distributed tools is available. Each tool is chosen for its effectiveness, ensuring users have access to high-quality utilities for troubleshooting, data recovery, and system diagnostics.
+Within CodeRed, a meticulously selected suite of free and legally distributed tools is available. Each tool is chosen for its effectiveness, ensuring users have access to high-quality utilities for troubleshooting, data recovery, and system diagnostics.
 
 ## Seamless Hardware Compatibility
-Upon booting, CodeRed PE automatically installs drivers for critical components like graphics, sound, and network cards, ensuring full connectivity and usability without additional setup.
+Upon booting, CodeRed automatically installs drivers for critical components like graphics, sound, and network cards, ensuring full connectivity and usability without additional setup.
 
 <img src="https://github.com/hethwiQ/CodeRed/blob/main/images/Capture.webp?raw=true" style="max-width:100%; height:auto;"/>
 
