@@ -57,3 +57,8 @@ Upon booting, CodeRed automatically installs drivers for critical components lik
 <img src="https://raw.githubusercontent.com/hethwiQ/CodeRed/refs/heads/main/images/codered%20sc/aomei%20disk%20assist.webp" style="max-width:100%; height:auto;"/>
 <img src="https://raw.githubusercontent.com/hethwiQ/CodeRed/refs/heads/main/images/codered%20sc/scan.webp" style="max-width:100%; height:auto;"/>
 <img src="https://raw.githubusercontent.com/hethwiQ/CodeRed/refs/heads/main/images/codered%20sc/password%20edit.webp" style="max-width:100%; height:auto;"/>
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/kSvIeGjeG-c/hqdefault.jpg)](https://youtu.be/kSvIeGjeG-c)
+
