@@ -60,5 +60,5 @@ Upon booting, CodeRed automatically installs drivers for critical components lik
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/kSvIeGjeG-c/hqdefault.jpg)](https://youtu.be/kSvIeGjeG-c)
+[Demo video](https://youtu.be/kSvIeGjeG-c)
 
