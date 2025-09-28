@@ -34,7 +34,7 @@ Upon booting, CodeRed automatically installs drivers for critical components lik
 
    **Note**:
    - For USB flash drives 32 GB or larger, select `Large FAT32` under the "File system" dropdown.
-   - If "Large FAT32" is not visible, press `ALT+L` to enable "Force Large32 formatting."
+   - If "Large FAT32" is not visible, press `ALT+E` to enable "Force Large32 formatting."
 
 ### Step 5: Finalize and Start
 1. Double-check all settings against the recommended configuration shown in the screenshot below.
